@@ -23,6 +23,7 @@ module.exports = {
   // add your custom rules here
   rules: {
     'no-unused-vars': 'warn',
+    'no-console': 'off',
     quotes: ['error', 'single'],
     // allow async-await
     'generator-star-spacing': 'off',
